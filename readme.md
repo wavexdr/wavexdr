@@ -1,2 +1,2 @@
-# hi there
+# hi
 pc science / study / coding...
